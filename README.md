@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eager2cod
 - 👀 I’m interested in .springboot, thymeleaf, django,nodejs, html , css, bootstrap php, javascript..
-- 🌱 I’m currently learning .springboot, flask jsp..
+- 🌱 I’m currently learning  flask 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
